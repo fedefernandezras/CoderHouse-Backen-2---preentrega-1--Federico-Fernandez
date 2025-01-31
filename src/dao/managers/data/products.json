@@ -1,0 +1,167 @@
+[
+  {
+    "id": "dc4447ba-2425-41c6-9c18-c0610da61959",
+    "title": "La Sombra de los Libros",
+    "description": "Una emocionante novela de misterio ambientada en una antigua biblioteca.",
+    "price": 500,
+    "thumbnail": [],
+    "code": "LIB123",
+    "stock": 50,
+    "category": "Novelas",
+    "status": true
+  },
+  {
+    "id": "fc272e72-3a37-4860-a125-1dd01b089795",
+    "title": "Manual del Aficionado a la Fantasía",
+    "description": "Un libro lleno de consejos y guías para los amantes de mundos fantásticos.",
+    "price": 300,
+    "thumbnail": [],
+    "code": "LIB125",
+    "stock": 20,
+    "category": "Guías",
+    "status": true
+  },
+  {
+    "id": "32765bb5-126a-436d-8bf9-a005ea621e10",
+    "title": "El Arte de la Poesía",
+    "description": "Una recopilación de los poemas más inspiradores de los últimos tiempos.",
+    "price": 500,
+    "thumbnail": [],
+    "code": "LIB126",
+    "stock": 50,
+    "category": "Poesía",
+    "status": true
+  },
+  {
+    "id": "7ab41c1b-935e-4cc7-b0aa-7eff681f35fa",
+    "title": "Historias Perdidas del Imperio",
+    "description": "Relatos épicos que exploran los rincones olvidados de una civilización antigua.",
+    "price": 500,
+    "thumbnail": [],
+    "code": "LIB127",
+    "stock": 50,
+    "category": "Relatos históricos",
+    "status": true
+  },
+  {
+    "id": "3e907b22-08f3-46f3-96e9-3c86e19b4f23",
+    "title": "El Señor de los Anillos",
+    "description": "Una épica historia de aventura en la Tierra Media.",
+    "price": 900,
+    "thumbnail": [],
+    "code": "LIB128",
+    "stock": 30,
+    "category": "Fantasía",
+    "status": true
+  },
+  {
+    "id": "e23b07cf-1a45-4a6a-b8a1-71a8393a3cb3",
+    "title": "Cien Años de Soledad",
+    "description": "Un clásico de la literatura que explora la historia de una familia mágica.",
+    "price": 650,
+    "thumbnail": [],
+    "code": "LIB129",
+    "stock": 40,
+    "category": "Realismo mágico",
+    "status": true
+  },
+  {
+    "id": "a84e29fc-cf5a-4dfb-8c29-20d44e2ea0b2",
+    "title": "1984",
+    "description": "Una distopía sobre un mundo controlado por la vigilancia totalitaria.",
+    "price": 700,
+    "thumbnail": [],
+    "code": "LIB130",
+    "stock": 25,
+    "category": "Distopía",
+    "status": true
+  },
+  {
+    "id": "e6bb89f1-b8b9-4b6d-8d6e-6a57305c568e",
+    "title": "Harry Potter y la Piedra Filosofal",
+    "description": "El inicio de la mágica saga de Harry Potter.",
+    "price": 550,
+    "thumbnail": [],
+    "code": "LIB131",
+    "stock": 60,
+    "category": "Fantasía",
+    "status": true
+  },
+  {
+    "id": "5e87b9ef-84b1-4516-9abf-412bfb2c0d83",
+    "title": "Orgullo y Prejuicio",
+    "description": "Una novela romántica que explora las costumbres de la Inglaterra del siglo XIX.",
+    "price": 480,
+    "thumbnail": [],
+    "code": "LIB132",
+    "stock": 35,
+    "category": "Romance",
+    "status": true
+  },
+  {
+    "id": "fba2c39e-2f1c-414f-a58b-2bcb97f96382",
+    "title": "El Alquimista",
+    "description": "Un viaje espiritual para descubrir el significado de la vida.",
+    "price": 600,
+    "thumbnail": [],
+    "code": "LIB133",
+    "stock": 45,
+    "category": "Ficción",
+    "status": true
+  },
+  {
+    "id": "2c82a2cf-5df5-49c3-8b36-90f92e4fa4b6",
+    "title": "Matar a un Ruiseñor",
+    "description": "Una novela que explora la justicia y la moralidad en el sur de Estados Unidos.",
+    "price": 650,
+    "thumbnail": [],
+    "code": "LIB134",
+    "stock": 40,
+    "category": "Clásicos",
+    "status": true
+  },
+  {
+    "id": "ec80b467-fc5e-4fa3-9baf-4e4bb6e9a713",
+    "title": "Don Quijote de la Mancha",
+    "description": "La historia del caballero andante más famoso de todos los tiempos.",
+    "price": 800,
+    "thumbnail": [],
+    "code": "LIB135",
+    "stock": 20,
+    "category": "Clásicos",
+    "status": true
+  },
+  {
+    "id": "39a5be50-7262-4f8a-80ba-cb2d5e7d8084",
+    "title": "Crónica de una Muerte Anunciada",
+    "description": "Una narración fascinante sobre los eventos previos a un asesinato.",
+    "price": 450,
+    "thumbnail": [],
+    "code": "LIB136",
+    "stock": 50,
+    "category": "Realismo mágico",
+    "status": true
+  },
+  {
+    "id": "c3e39407-6e0e-4092-a5dc-d1e9795d4813",
+    "title": "El Principito",
+    "description": "Un cuento filosófico sobre el amor y la amistad.",
+    "price": 400,
+    "thumbnail": [],
+    "code": "LIB137",
+    "stock": 70,
+    "category": "Ficción",
+    "status": true
+  },
+  {
+    "id": "f6b578b4-abc4-4942-b958-8fd54ab0f940",
+    "title": "Los Juegos del Hambre",
+    "description": "Una saga distópica donde el coraje define el destino.",
+    "price": 750,
+    "thumbnail": [],
+    "code": "LIB138",
+    "stock": 30,
+    "category": "Distopía",
+    "status": true
+  }
+]
